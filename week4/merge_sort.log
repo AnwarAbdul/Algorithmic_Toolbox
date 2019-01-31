@@ -1,0 +1,233 @@
+
+Enter the size of the array
+
+Enter the elements
+
+Passing 1 start element index = 0, end element index = 3
+
+Passing 1 start element index = 0, end element index = 1
+
+Passing 1 start element index = 0, end element index = 0
+
+Index of element accessed = 0
+
+Passing 2 start element index = 1, end element index = 1
+
+Index of element accessed = 1
+
+Inside merge. n = 2, al = 0
+
+Inside merge. b[0] = a[0]; a[0] = 8
+
+Inside merge. c[0] = a[1]; a[1] = 7
+
+Assigning a[0] = c[0], c[0] = 7
+
+Verifying... a[0] = 7
+
+Verifying... a[1] = 8
+
+Inside merge. a[0] = 7
+
+Inside merge. a[1] = 8
+
+Passing 2 start element index = 2, end element index = 3
+
+Passing 1 start element index = 2, end element index = 2
+
+Index of element accessed = 2
+
+Passing 2 start element index = 3, end element index = 3
+
+Index of element accessed = 3
+
+Inside merge. n = 2, al = 2
+
+Inside merge. b[0] = a[2]; a[2] = 6
+
+Inside merge. c[0] = a[3]; a[3] = 5
+
+Assigning a[2] = c[0], c[0] = 5
+
+Verifying... a[2] = 5
+
+Verifying... a[3] = 6
+
+Inside merge. a[2] = 5
+
+Inside merge. a[3] = 6
+
+Inside merge. n = 4, al = 0
+
+Inside merge. b[0] = a[0]; a[0] = 7
+
+Inside merge. b[1] = a[1]; a[1] = 8
+
+Inside merge. c[0] = a[2]; a[2] = 5
+
+Inside merge. c[1] = a[3]; a[3] = 6
+
+Assigning a[0] = c[0], c[0] = 5
+
+Verifying... a[0] = 5
+
+Assigning a[1] = c[1], c[1] = 6
+
+Verifying... a[1] = 6
+
+Verifying... a[2] = 7
+
+Verifying... a[3] = 8
+
+Inside merge. a[0] = 5
+
+Inside merge. a[1] = 6
+
+Inside merge. a[2] = 7
+
+Inside merge. a[3] = 8
+
+Passing 2 start element index = 4, end element index = 7
+
+Passing 1 start element index = 4, end element index = 5
+
+Passing 1 start element index = 4, end element index = 4
+
+Index of element accessed = 4
+
+Passing 2 start element index = 5, end element index = 5
+
+Index of element accessed = 5
+
+Inside merge. n = 2, al = 4
+
+Inside merge. b[0] = a[4]; a[4] = 4
+
+Inside merge. c[0] = a[5]; a[5] = 3
+
+Assigning a[4] = c[0], c[0] = 3
+
+Verifying... a[4] = 3
+
+Verifying... a[5] = 4
+
+Inside merge. a[4] = 3
+
+Inside merge. a[5] = 4
+
+Passing 2 start element index = 6, end element index = 7
+
+Passing 1 start element index = 6, end element index = 6
+
+Index of element accessed = 6
+
+Passing 2 start element index = 7, end element index = 7
+
+Index of element accessed = 7
+
+Inside merge. n = 2, al = 6
+
+Inside merge. b[0] = a[6]; a[6] = 2
+
+Inside merge. c[0] = a[7]; a[7] = 1
+
+Assigning a[6] = c[0], c[0] = 1
+
+Verifying... a[6] = 1
+
+Verifying... a[7] = 2
+
+Inside merge. a[6] = 1
+
+Inside merge. a[7] = 2
+
+Inside merge. n = 4, al = 4
+
+Inside merge. b[0] = a[4]; a[4] = 3
+
+Inside merge. b[1] = a[5]; a[5] = 4
+
+Inside merge. c[0] = a[6]; a[6] = 1
+
+Inside merge. c[1] = a[7]; a[7] = 2
+
+Assigning a[4] = c[0], c[0] = 1
+
+Verifying... a[4] = 1
+
+Assigning a[5] = c[1], c[1] = 2
+
+Verifying... a[5] = 2
+
+Verifying... a[6] = 3
+
+Verifying... a[7] = 4
+
+Inside merge. a[4] = 1
+
+Inside merge. a[5] = 2
+
+Inside merge. a[6] = 3
+
+Inside merge. a[7] = 4
+
+Inside merge. n = 8, al = 0
+
+Inside merge. b[0] = a[0]; a[0] = 5
+
+Inside merge. b[1] = a[1]; a[1] = 6
+
+Inside merge. b[2] = a[2]; a[2] = 7
+
+Inside merge. b[3] = a[3]; a[3] = 8
+
+Inside merge. c[0] = a[4]; a[4] = 1
+
+Inside merge. c[1] = a[5]; a[5] = 2
+
+Inside merge. c[2] = a[6]; a[6] = 3
+
+Inside merge. c[3] = a[7]; a[7] = 4
+
+Assigning a[0] = c[0], c[0] = 1
+
+Verifying... a[0] = 1
+
+Assigning a[1] = c[1], c[1] = 2
+
+Verifying... a[1] = 2
+
+Assigning a[2] = c[2], c[2] = 3
+
+Verifying... a[2] = 3
+
+Assigning a[3] = c[3], c[3] = 4
+
+Verifying... a[3] = 4
+
+Verifying... a[4] = 5
+
+Verifying... a[5] = 6
+
+Verifying... a[6] = 7
+
+Verifying... a[7] = 8
+
+Inside merge. a[0] = 1
+
+Inside merge. a[1] = 2
+
+Inside merge. a[2] = 3
+
+Inside merge. a[3] = 4
+
+Inside merge. a[4] = 5
+
+Inside merge. a[5] = 6
+
+Inside merge. a[6] = 7
+
+Inside merge. a[7] = 8
+
+The sorted array is
+1 2 3 4 5 6 7 8 
