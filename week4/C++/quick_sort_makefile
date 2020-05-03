@@ -1,9 +1,0 @@
-CC = g++
-CFLAGS = -pipe -O2 -std=c++14 
-LFLAGS = -lm
-
-output: 
-	$(CC) $(CFLAGS) quick_sort_main.cc quick_sort_library.cc $(LFLAGS)
-
-clean:
-	rm -f *.out
